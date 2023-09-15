@@ -1,15 +1,14 @@
 # Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+This is a simple project, to practice and learn about mongoDb connections with Java17 and SpringBoot 
 
 # Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
+First install Java 17 and Maven 3
+I used a docker image to run MongoDB: https://www.mongodb.com/compatibility/docker
 
 # Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+Import project with your ide
+Run class Main project
+Test with your favorite API Testing tool, I used Insomnia
 
 # Contribute
 TODO: Explain how other users and developers can contribute to make your code better. 
